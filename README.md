@@ -43,14 +43,16 @@ I am a third-year student of Informatics and Econometrics at the University of G
 }
 
 .skill {
-  margin-bottom: 15px;  /* Odstęp między paskami */
+  margin-bottom: 15px; /* Odstęp między paskami */
 }
 
 progress {
-  display: block;  /* Ustawienie, by każdy pasek był w nowej linii */
+  display: block; /* Ustawienie, by każdy pasek był w nowej linii */
   width: 100%;
   height: 20px;
+  margin: 10px 0; /* Dodatkowy margines dla lepszego odstępu */
 }
+
 
 
 
