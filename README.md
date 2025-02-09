@@ -4,13 +4,7 @@
 I am a third-year student of Informatics and Econometrics at the University of Gdańsk, aspiring to pursue a master's degree in Big Data. I am eager to learn, continuously improve my skills, and take on new challenges. My strong foundation in statistics, data analysis, and machine learning allows me to approach complex problems with a structured and analytical mindset. I am passionate about data-driven decision-making and always looking for opportunities to apply my knowledge to real-world problems.
 
 ### Technical skills
-- Python
-- R
-- Excel
-- Statistica
-- Spss
-
-<!DOCTYPE html>
+<font size="8">**Technical skills**</font>
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
@@ -106,44 +100,39 @@ I am a third-year student of Informatics and Econometrics at the University of G
     <div class="skills">
         <div class="skill">
             <label>Python</label>
-            <progress value="80" max="100"></progress>
+            <progress value="20" max="100"></progress>
         </div>
 
         <div class="skill">
             <label>R</label>
-            <progress value="75" max="100"></progress>
+            <progress value="10" max="100"></progress>
         </div>
 
         <div class="skill">
             <label>Excel</label>
-            <progress value="90" max="100"></progress>
-        </div>
-
-        <div class="skill">
-            <label>Statistica</label>
-            <progress value="60" max="100"></progress>
-        </div>
-
-        <div class="skill">
-            <label>SPSS</label>
             <progress value="70" max="100"></progress>
         </div>
 
         <div class="skill">
+            <label>Statistica</label>
+            <progress value="10" max="100"></progress>
+        </div>
+
+        <div class="skill">
+            <label>SPSS</label>
+            <progress value="20" max="100"></progress>
+        </div>
+
+        <div class="skill">
             <label>SQL</label>
-            <progress value="85" max="100"></progress>
+            <progress value="10" max="100"></progress>
         </div>
     </div>
-
-    <h2>Projects</h2>
-    <ol>
-        <li>1</li>
-        <li>2</li>
-        <li>3</li>
-        <li>4</li>
-        <li>5</li>
-    </ol>
 </div>
 
 </body>
 </html>
+
+<font size="8">**Projects**</font>
+
+
