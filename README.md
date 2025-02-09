@@ -10,107 +10,30 @@ I am a third-year student of Informatics and Econometrics at the University of G
 - Statistica
 - Spss
 
-<!DOCTYPE html>
-<html lang="pl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio - Umiejętności</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<link rel="stylesheet" href="skill.css" type="text/css" />
 
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            text-align: center;
-            padding: 20px;
-        }
-
-        .skills {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 15px;
-        }
-
-        .skill {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            width: 50%;
-            background: white;
-            padding: 10px 15px;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-        }
-
-        .skill label {
-            font-weight: bold;
-            flex: 1;
-            text-align: left;
-        }
-
-        progress {
-            flex: 2;
-            width: 100%;
-            height: 20px;
-            border-radius: 10px;
-            overflow: hidden;
-        }
-
-        progress::-webkit-progress-bar {
-            background-color: #ddd;
-            border-radius: 10px;
-        }
-
-        progress::-webkit-progress-value {
-            background-color: #007bff;
-            border-radius: 10px;
-        }
-
-        @media (max-width: 768px) {
-            .skill {
-                width: 80%;
-            }
-        }
-    </style>
-</head>
-<body>
-
-<div class="skills">
-    <div class="skill">
-        <label>Python</label>
-        <progress value="80" max="100"></progress>
+<div class="skill">
+        
+        
+        <li>
+            <h3>html</h3><p>90%</p>
+            <span class="bar"><span class="html"></span></span>
+            
+        </li>
+            <li>
+                <h3>css</h3><p>100%</p>
+                <span class="bar"><span class="css"></span></span>
+            </li>
+            <li>
+                <h3>php</h3><p>70%</p>
+                <span class="bar"><span class="php"></span></span>
+            </li>
+            <li>
+                <h3>javascript</h3><p>80%</p>
+                <span class="bar"><span class="javascript"></span></span>
+            </li>
+       
     </div>
-
-    <div class="skill">
-        <label>R</label>
-        <progress value="75" max="100"></progress>
-    </div>
-
-    <div class="skill">
-        <label>Excel</label>
-        <progress value="90" max="100"></progress>
-    </div>
-
-    <div class="skill">
-        <label>Statistica</label>
-        <progress value="60" max="100"></progress>
-    </div>
-
-    <div class="skill">
-        <label>SPSS</label>
-        <progress value="70" max="100"></progress>
-    </div>
-</div>
-
-</body>
-</html>
-
 
 
 
