@@ -33,27 +33,29 @@ I am a third-year student of Informatics and Econometrics at the University of G
         .skills {
             display: flex;
             flex-direction: column;
-            align-items: center; /* Wyśrodkowanie pasków */
-            gap: 15px; /* Odstęp między paskami */
+            align-items: center;
+            gap: 15px;
         }
 
         .skill {
             display: flex;
-            flex-direction: column;
             align-items: center;
-            width: 50%; /* Dostosowanie szerokości */
+            justify-content: space-between;
+            width: 50%;
             background: white;
-            padding: 15px;
+            padding: 10px 15px;
             border-radius: 8px;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
         }
 
-        label {
+        .skill label {
             font-weight: bold;
-            margin-bottom: 5px;
+            flex: 1;
+            text-align: left;
         }
 
         progress {
+            flex: 2;
             width: 100%;
             height: 20px;
             border-radius: 10px;
@@ -72,7 +74,7 @@ I am a third-year student of Informatics and Econometrics at the University of G
 
         @media (max-width: 768px) {
             .skill {
-                width: 80%; /* Większa szerokość dla mniejszych ekranów */
+                width: 80%;
             }
         }
     </style>
