@@ -10,7 +10,6 @@ I am a third-year student of Informatics and Econometrics at the University of G
 - Statistica
 - Spss
 
-
 <!DOCTYPE html>
 <html lang="pl">
 <head>
@@ -27,8 +26,18 @@ I am a third-year student of Informatics and Econometrics at the University of G
         body {
             font-family: Arial, sans-serif;
             background-color: #f4f4f4;
-            text-align: center;
             padding: 20px;
+        }
+
+        h2 {
+            text-align: left;
+            margin-bottom: 10px;
+        }
+
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: left;
         }
 
         .skills {
@@ -36,6 +45,7 @@ I am a third-year student of Informatics and Econometrics at the University of G
             flex-direction: column;
             align-items: center;
             gap: 15px;
+            margin-top: 20px;
         }
 
         .skill {
@@ -82,42 +92,58 @@ I am a third-year student of Informatics and Econometrics at the University of G
 </head>
 <body>
 
-<div class="skills">
-    <div class="skill">
-        <label>Python</label>
-        <progress value="80" max="100"></progress>
+<div class="content">
+    <h2>Technical Skills</h2>
+    <ul>
+        <li>Python</li>
+        <li>R</li>
+        <li>Excel</li>
+        <li>Statistica</li>
+        <li>SPSS</li>
+        <li>SQL</li>
+    </ul>
+
+    <div class="skills">
+        <div class="skill">
+            <label>Python</label>
+            <progress value="80" max="100"></progress>
+        </div>
+
+        <div class="skill">
+            <label>R</label>
+            <progress value="75" max="100"></progress>
+        </div>
+
+        <div class="skill">
+            <label>Excel</label>
+            <progress value="90" max="100"></progress>
+        </div>
+
+        <div class="skill">
+            <label>Statistica</label>
+            <progress value="60" max="100"></progress>
+        </div>
+
+        <div class="skill">
+            <label>SPSS</label>
+            <progress value="70" max="100"></progress>
+        </div>
+
+        <div class="skill">
+            <label>SQL</label>
+            <progress value="85" max="100"></progress>
+        </div>
     </div>
 
-    <div class="skill">
-        <label>R</label>
-        <progress value="75" max="100"></progress>
-    </div>
-
-    <div class="skill">
-        <label>Excel</label>
-        <progress value="90" max="100"></progress>
-    </div>
-
-    <div class="skill">
-        <label>Statistica</label>
-        <progress value="60" max="100"></progress>
-    </div>
-
-    <div class="skill">
-        <label>SPSS</label>
-        <progress value="70" max="100"></progress>
-    </div>
+    <h2>Projects</h2>
+    <ol>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+        <li>5</li>
+    </ol>
 </div>
 
 </body>
 </html>
-
-
-
-### Projects
-- 1
-- 2
-- 3
-- 4
-- 5
-- 
