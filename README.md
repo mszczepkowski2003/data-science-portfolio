@@ -47,9 +47,11 @@ I am a third-year student of Informatics and Econometrics at the University of G
 }
 
 progress {
+  display: block;  /* Ustawienie, by każdy pasek był w nowej linii */
   width: 100%;
   height: 20px;
 }
+
 
 
 ### Projects
