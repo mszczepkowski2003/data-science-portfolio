@@ -9,85 +9,48 @@ I am a third-year student of Informatics and Econometrics at the University of G
 - Excel
 - Statistica
 - Spss
+
 <div class="skills">
   <div class="skill">
     <label>Python</label>
-    <div class="dots">
-      <span class="dot filled"></span>
-      <span class="dot filled"></span>
-      <span class="dot filled"></span>
-      <span class="dot filled"></span>
-      <span class="dot"></span>
-    </div>
+    <progress value="80" max="100"></progress>
   </div>
   
   <div class="skill">
     <label>R</label>
-    <div class="dots">
-      <span class="dot filled"></span>
-      <span class="dot filled"></span>
-      <span class="dot filled"></span>
-      <span class="dot"></span>
-      <span class="dot"></span>
-    </div>
+    <progress value="75" max="100"></progress>
   </div>
 
   <div class="skill">
     <label>Excel</label>
-    <div class="dots">
-      <span class="dot filled"></span>
-      <span class="dot filled"></span>
-      <span class="dot filled"></span>
-      <span class="dot filled"></span>
-      <span class="dot"></span>
-    </div>
+    <progress value="90" max="100"></progress>
   </div>
 
   <div class="skill">
     <label>Statistica</label>
-    <div class="dots">
-      <span class="dot filled"></span>
-      <span class="dot filled"></span>
-      <span class="dot"></span>
-      <span class="dot"></span>
-      <span class="dot"></span>
-    </div>
+    <progress value="60" max="100"></progress>
   </div>
 
   <div class="skill">
     <label>SPSS</label>
-    <div class="dots">
-      <span class="dot filled"></span>
-      <span class="dot filled"></span>
-      <span class="dot filled"></span>
-      <span class="dot"></span>
-      <span class="dot"></span>
-    </div>
+    <progress value="70" max="100"></progress>
   </div>
 </div>
+
+
 .skills {
   font-size: 1.2em;
 }
 
 .skill {
-  margin-bottom: 15px;
+  margin-bottom: 15px;  /* Odstęp między paskami */
 }
 
-.dots {
-  display: flex;
-  gap: 5px;
+progress {
+  width: 100%;
+  height: 20px;
 }
 
-.dot {
-  width: 12px;
-  height: 12px;
-  border-radius: 50%;
-  background-color: #ddd;
-}
-
-.dot.filled {
-  background-color: #4CAF50; /* Kolor wypełnionej kropki (zielony) */
-}
 
 ### Projects
 - 1
