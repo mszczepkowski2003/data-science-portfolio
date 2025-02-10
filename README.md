@@ -129,22 +129,30 @@ I am a third-year student of Informatics and Econometrics at the University of G
     <h2>My Projects</h2>
     <div class="project-list">
         <div class="project">
-            <h3>Real estate data scraping with selenium</h3>
+            <h3>Real Estate Data Scraping with Selenium</h3>
+            <p>This project involved building a web scraper using Selenium to collect real estate listings from the Morizon website, focusing on apartments in Gdynia, Poland. The scraper automates data extraction across multiple pages and collects detailed property information, including price, size, number of rooms, floor, location, and various additional attributes (e.g., building type, construction year, heating system, balcony, etc.).</p>
+            <p><strong>Key Features:</strong></p>
+            <ul>
+                <li><strong>Web Scraping with Selenium:</strong> Automated browsing and data collection from dynamically loaded pages.</li>
+                <li><strong>Data Extraction:</strong> Gathered detailed listing information and parsed it into structured data.</li>
+                <li><strong>Data Storage:</strong> Exported collected data into a CSV format for further analysis or use.</li>
+                <li><strong>Error Handling & Robust Design:</strong> Managed pop-ups, timeouts, and missing elements gracefully for uninterrupted scraping.</li>
+                <li><strong>Efficient Navigation:</strong> Implemented a strategy to handle multi-page listings, collecting unique links and efficiently moving across pages.</li>
+            </ul>
+            <a href="#">View Project</a>
+        </div>
+        <div class="project">
+            <h3>Breast Cancer Classification with Random Forest Classifier</h3>
             <p>Short description of the project. What problem does it solve?</p>
             <a href="#">View Project</a>
         </div>
         <div class="project">
-            <h3>Breast cancer classification with random forest classifier</h3>
+            <h3>NLP Classification of Film Reviews</h3>
             <p>Short description of the project. What problem does it solve?</p>
             <a href="#">View Project</a>
         </div>
         <div class="project">
-            <h3>NLP classification of film reviews</h3>
-            <p>Short description of the project. What problem does it solve?</p>
-            <a href="#">View Project</a>
-        </div>
-        <div class="project">
-            <h3>Protein Yoghurts marketing survey and analysis</h3>
+            <h3>Protein Yoghurts Marketing Survey and Analysis</h3>
             <p>Short description of the project. What problem does it solve?</p>
             <a href="#">View Project</a>
         </div>
