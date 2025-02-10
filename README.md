@@ -1,8 +1,5 @@
 # data-science-portfolio
 
-### About me
-I am a third-year student of Informatics and Econometrics at the University of Gdańsk, aspiring to pursue a master's degree in Big Data. I am eager to learn, continuously improve my skills, and take on new challenges. My strong foundation in statistics, data analysis, and machine learning allows me to approach complex problems with a structured and analytical mindset. I am passionate about data-driven decision-making and always looking for opportunities to apply my knowledge to real-world problems.
-
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
@@ -197,7 +194,7 @@ I am a third-year student of Informatics and Econometrics at the University of G
 <div class="projects">
     <div class="project-list">
         <div class="project">
-            <h3>Real Estate Data Scraping with Selenium</h3>
+            <h3>Real Estate Data Scraping with Python</h3>
             <p>This project involved building a web scraper using Selenium to collect real estate listings from the Morizon website, focusing on apartments in Gdynia, Poland. The scraper automates data extraction across multiple pages and collects detailed property information, including price, size, number of rooms, floor, location, and various additional attributes (e.g., building type, construction year, heating system, balcony, etc.).</p>
             <p><strong>Key Features:</strong></p>
             <div class="key-features">
@@ -236,6 +233,14 @@ I am a third-year student of Informatics and Econometrics at the University of G
                         Implemented a strategy to handle multi-page listings, collecting unique links and efficiently moving across pages.
                     </div>
                 </div>
+                <div class="feature">
+                    <div class="icon">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Polska" style="width: 30px; height: 20px;">
+                </div>
+                <div class="text">
+                <strong>Project Language:</strong> Polish
+            </div>
+        </div>
             </div>
             <a href="#">View Project</a>
         </div>
