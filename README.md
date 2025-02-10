@@ -3,8 +3,8 @@
 ### About me
 I am a third-year student of Informatics and Econometrics at the University of Gdańsk, aspiring to pursue a master's degree in Big Data. I am eager to learn, continuously improve my skills, and take on new challenges. My strong foundation in statistics, data analysis, and machine learning allows me to approach complex problems with a structured and analytical mindset. I am passionate about data-driven decision-making and always looking for opportunities to apply my knowledge to real-world problems.
 
-### Technical skills
-<font size="8">**Technical skills**</font>
+
+<font size="6">Technical skills</font>
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
@@ -87,16 +87,6 @@ I am a third-year student of Informatics and Econometrics at the University of G
 <body>
 
 <div class="content">
-    <h2>Technical Skills</h2>
-    <ul>
-        <li>Python</li>
-        <li>R</li>
-        <li>Excel</li>
-        <li>Statistica</li>
-        <li>SPSS</li>
-        <li>SQL</li>
-    </ul>
-
     <div class="skills">
         <div class="skill">
             <label>Python</label>
@@ -133,6 +123,85 @@ I am a third-year student of Informatics and Econometrics at the University of G
 </body>
 </html>
 
-<font size="8">**Projects**</font>
+<font size="6">Projects</font>
+
+<div class="projects">
+    <h2>My Projects</h2>
+    <div class="project-list">
+        <div class="project">
+            <h3>Project 1</h3>
+            <p>Short description of the project. What problem does it solve?</p>
+            <a href="#">View Project</a>
+        </div>
+        <div class="project">
+            <h3>Project 2</h3>
+            <p>Short description of the project. What problem does it solve?</p>
+            <a href="#">View Project</a>
+        </div>
+        <div class="project">
+            <h3>Project 3</h3>
+            <p>Short description of the project. What problem does it solve?</p>
+            <a href="#">View Project</a>
+        </div>
+        <div class="project">
+            <h3>Project 4</h3>
+            <p>Short description of the project. What problem does it solve?</p>
+            <a href="#">View Project</a>
+        </div>
+        <div class="project">
+            <h3>Project 5</h3>
+            <p>Short description of the project. What problem does it solve?</p>
+            <a href="#">View Project</a>
+        </div>
+    </div>
+</div>
+
+<style>
+    .projects {
+        max-width: 800px;
+        margin: 40px auto;
+        text-align: center;
+    }
+    
+    .project-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 20px;
+        margin-top: 20px;
+    }
+    
+    .project {
+        background: white;
+        padding: 15px;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        transition: transform 0.3s ease;
+    }
+    
+    .project:hover {
+        transform: translateY(-5px);
+    }
+    
+    .project h3 {
+        margin-bottom: 10px;
+    }
+    
+    .project a {
+        display: inline-block;
+        margin-top: 10px;
+        padding: 8px 15px;
+        background: #007bff;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+    }
+    
+    .project a:hover {
+        background: #0056b3;
+    }
+</style>
+
+
+
 
 
