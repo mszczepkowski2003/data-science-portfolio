@@ -246,7 +246,7 @@
         </div>
         <div class="project">
             <h3>Breast Cancer Classification with Random Forest Classifier</h3>
-            <p>This was about developing a machine learning model to classify breast cancer cases using a dataset of tumor characteristics. The workflow included data preprocessing, exploratory data analysis, and feature engineering to optimize model performance. The classification model predicts whether a tumor is benign or malignant based on key attributes such as radius, texture, perimeter, and                         smoothness. Various evaluation metrics, including ROC curves and confusion matrices, were used to assess accuracy and reliability. Final model classifies cases with 95% accuracy.</p>
+            <p>This project was about developing a machine learning model to classify breast cancer cases using a dataset of tumor characteristics. The workflow included data preprocessing, exploratory data analysis, and feature engineering to optimize model performance. The classification model predicts whether a tumor is benign or malignant based on key attributes such as radius, texture, perimeter, and                  smoothness. Various evaluation metrics, including ROC curves and confusion matrices, were used to assess accuracy and reliability. Final model classifies cases with 95% accuracy.</p>
             <a href="#">View Project</a>
         </div>
         <div class="project">
