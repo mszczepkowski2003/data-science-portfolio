@@ -199,6 +199,14 @@
             <p><strong>Key Features:</strong></p>
             <div class="key-features">
                 <div class="feature">
+                    <div class="icon">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Polska" style="width: 30px; height: 20px;">
+                        </div>
+                <div class="text">
+                <strong>Project Language:</strong> Polish
+                    </div>
+                </div>
+                <div class="feature">
                     <div class="icon">🔄</div>
                     <div class="text">
                         <strong>Web Scraping with Selenium:</strong>
@@ -233,14 +241,6 @@
                         Implemented a strategy to handle multi-page listings, collecting unique links and efficiently moving across pages.
                     </div>
                 </div>
-                <div class="feature">
-                    <div class="icon">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Polska" style="width: 30px; height: 20px;">
-                </div>
-                <div class="text">
-                <strong>Project Language:</strong> Polish
-            </div>
-        </div>
             </div>
             <a href="#">View Project</a>
         </div>
