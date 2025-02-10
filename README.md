@@ -195,7 +195,7 @@
     <div class="project-list">
         <div class="project">
             <h3>Real Estate Data Scraping with Python</h3>
-            <p>This project involved building a web scraper using Selenium to collect real estate listings from the Morizon website, focusing on apartments in Gdynia, Poland. The scraper automates data extraction across multiple pages and collects detailed property information, including price, size, number of rooms, floor, location, and various additional attributes (e.g., building type, construction year, heating system, balcony, etc.).</p>
+            <p>This project involved building a web scraper using Selenium to collect real estate listings from the Morizon website, focusing on apartments in Tricity, Poland. The scraper automates data extraction across multiple pages and collects detailed property information, including price, size, number of rooms, floor, location, and various additional attributes (e.g., building type, construction year, heating system, balcony, etc.).</p>
             <p><strong>Key Features:</strong></p>
             <div class="key-features">
                 <div class="feature">
@@ -231,14 +231,14 @@
                     <div class="icon">⚙️</div>
                     <div class="text">
                         <strong>Error Handling & Robust Design:</strong>
-                        Managed pop-ups, timeouts, and missing elements gracefully for uninterrupted scraping.
+                        Dealt with pop-ups, timeouts, and missing elements to ensure smooth scraping.
                     </div>
                 </div>
                 <div class="feature">
                     <div class="icon">🔁</div>
                     <div class="text">
                         <strong>Efficient Navigation:</strong>
-                        Implemented a strategy to handle multi-page listings, collecting unique links and efficiently moving across pages.
+                        Developed a way to manage multi-page listings, gather unique links, and move smoothly between pages.
                     </div>
                 </div>
             </div>
@@ -246,7 +246,7 @@
         </div>
         <div class="project">
             <h3>Breast Cancer Classification with Random Forest Classifier</h3>
-            <p>Short description of the project. What problem does it solve?</p>
+            <p>This was about developing a machine learning model to classify breast cancer cases using a dataset of tumor characteristics. The workflow included data preprocessing, exploratory data analysis, and feature engineering to optimize model performance. The classification model predicts whether a tumor is benign or malignant based on key attributes such as radius, texture, perimeter, and                         smoothness. Various evaluation metrics, including ROC curves and confusion matrices, were used to assess accuracy and reliability. Final model classifies cases with 95% accuracy.</p>
             <a href="#">View Project</a>
         </div>
         <div class="project">
