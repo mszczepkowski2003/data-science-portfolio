@@ -129,22 +129,22 @@ I am a third-year student of Informatics and Econometrics at the University of G
     <h2>My Projects</h2>
     <div class="project-list">
         <div class="project">
-            <h3>Project 1</h3>
+            <h3>Real estate data scraping with selenium</h3>
             <p>Short description of the project. What problem does it solve?</p>
             <a href="#">View Project</a>
         </div>
         <div class="project">
-            <h3>Project 2</h3>
+            <h3>Breast cancer classification with random forest classifier</h3>
             <p>Short description of the project. What problem does it solve?</p>
             <a href="#">View Project</a>
         </div>
         <div class="project">
-            <h3>Project 3</h3>
+            <h3>NLP classification of film reviews</h3>
             <p>Short description of the project. What problem does it solve?</p>
             <a href="#">View Project</a>
         </div>
         <div class="project">
-            <h3>Project 4</h3>
+            <h3>Protein Yoghurts marketing survey and analysis</h3>
             <p>Short description of the project. What problem does it solve?</p>
             <a href="#">View Project</a>
         </div>
