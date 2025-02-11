@@ -227,13 +227,7 @@
                         Exported collected data into a CSV format for further analysis or use.
                     </div>
                 </div>
-                <div class="feature">
-                    <div class="icon">⚙️</div>
-                    <div class="text">
-                        <strong>Error Handling & Robust Design:</strong>
-                        Dealt with pop-ups, timeouts, and missing elements to ensure smooth scraping.
-                    </div>
-                </div>
+                <div class="feature"><div class="icon">⚙️</div><div class="text"><strong>Error Handling & Robust Design:</strong>Dealt with pop-ups, timeouts, and missing elements to ensure smooth scraping.</div></div>
                 <div class="feature">
                     <div class="icon">🔁</div>
                     <div class="text">
@@ -260,6 +254,7 @@
                 <div class="feature"><div class="icon">🧠</div><div class="text"><strong>Machine Learning:</strong> Developed, tested, evaluated and compared two machine learning models: Random Forest Classifier and AdaBoost.</div></div>
                 <div class="feature"><div class="icon">📊</div><div class="text"><strong>Data Analysis:</strong> Performed exploratory data analysis.</div></div>
                 <div class="feature"><div class="icon">🎯</div><div class="text"><strong>Hyperparameter Tunning:</strong> Applied Grid search to optimize model performance</div></div>
+                <div class="feature"><div class="icon">📈</div><div class="text"><strong>Handling correlation:</strong>  Used Random Forest, which naturally handles highly correlated variables, avoiding the need for manual feature removal.</div></div>   
                 <div class="feature"><div class="icon">💾</div><div class="text"><strong>Model Deployment</strong> Saved and deployed the trained model using joblib, making it reusable for future predictions</div></div>    
             </div>
             <a href="#">View Project</a>
@@ -267,9 +262,13 @@
 
         <div class="project">
             <h3>NLP Classification of Film Reviews</h3>
-            <p>Built a sentiment analysis model to classify film reviews as positive or negative.</p>
+            <p>The main goal of this project was to develop a machine learning model capable of correctly classifying film reviews as positive or negative. First, I performed vectorization and created a sparse matrix to analyze the most common words used by reviewers. The model achieved an accuracy of 86%, which is a strong result given the small dataset(1928 observations).</p>
             <p><strong>Key Features:</strong></p>
             <div class="key-features">
+                <div class="feature">
+                    <div class="icon">
+                        <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="Uk" style="width: 30px; height: 20px;">
+                    </div>
                 <div class="feature"><div class="icon">💬</div><div class="text"><strong>Natural Language Processing:</strong> Tokenization, vectorization, and text preprocessing.</div></div>
                 <div class="feature"><div class="icon">📊</div><div class="text"><strong>Machine Learning:</strong> Trained a classifier on IMDb reviews.</div></div>
                 <div class="feature"><div class="icon">📈</div><div class="text"><strong>Model Evaluation:</strong> Used accuracy and precision metrics.</div></div>
