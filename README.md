@@ -273,9 +273,9 @@
                 <strong>Project Language:</strong> English
                     </div>
                 </div>
-                <div class="feature"><div class="icon">💬</div><div class="text"><strong>Natural Language Processing:</strong> Cleaned and preprocessed data and removed missing values</div></div>
-                <div class="feature"><div class="icon">📊</div><div class="text"><strong>Machine Learning:</strong> Trained a classifier on IMDb reviews.</div></div>
-                <div class="feature"><div class="icon">📈</div><div class="text"><strong>Model Evaluation:</strong> Used accuracy and precision metrics.</div></div>
+                <div class="feature"><div class="icon">💬</div><div class="text"><strong>Natural Language Processing:</strong> Cleaned and preprocessed data and removed missing values.</div></div>
+                <div class="feature"><div class="icon">📊</div><div class="text"><strong>Exploratory Data Analysis:</strong> Identified and visualized key words using word cloud.</div></div>
+                <div class="feature"><div class="icon">🧠</div><div class="text"><strong>Machine learning:</strong> Created working sentiment classification model that predictcs if the movie review is positive or negative.</div></div>
             </div>
             <a href="#">View Project</a>
         </div>
