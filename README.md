@@ -245,31 +245,42 @@
             <a href="#">View Project</a>
         </div>
         <div class="project">
-            <h3>Breast Cancer Classification with Random Forest Classifier</h3>
-            <p>This project was about developing a machine learning model to classify breast cancer cases using a dataset of tumor characteristics. The workflow included data preprocessing, exploratory data analysis, and feature engineering to optimize model performance. The classification model predicts whether a tumor is benign or malignant based on key attributes such as radius, texture, perimeter, and                  smoothness. Various evaluation metrics, including ROC curves and confusion matrices, were used to assess accuracy and reliability. Final model classifies cases with 95% accuracy.</p>
+            <h3>Breast Cancer Classification with Random Forest</h3>
+            <p>Developed a machine learning model to classify breast cancer cases with 95% accuracy.</p>
+            <p><strong>Key Features:</strong></p>
+            <div class="key-features">
+                <div class="feature"><div class="icon">🧠</div><div class="text"><strong>Machine Learning:</strong> Random Forest Classifier for classification.</div></div>
+                <div class="feature"><div class="icon">📊</div><div class="text"><strong>Data Analysis:</strong> Performed EDA and feature engineering.</div></div>
+                <div class="feature"><div class="icon">📈</div><div class="text"><strong>Model Evaluation:</strong> Used ROC curves and confusion matrices.</div></div>
+            </div>
             <a href="#">View Project</a>
         </div>
+
         <div class="project">
             <h3>NLP Classification of Film Reviews</h3>
-            <p>Short description of the project. What problem does it solve?</p>
+            <p>Built a sentiment analysis model to classify film reviews as positive or negative.</p>
+            <p><strong>Key Features:</strong></p>
+            <div class="key-features">
+                <div class="feature"><div class="icon">💬</div><div class="text"><strong>Natural Language Processing:</strong> Tokenization, vectorization, and text preprocessing.</div></div>
+                <div class="feature"><div class="icon">📊</div><div class="text"><strong>Machine Learning:</strong> Trained a classifier on IMDb reviews.</div></div>
+                <div class="feature"><div class="icon">📈</div><div class="text"><strong>Model Evaluation:</strong> Used accuracy and precision metrics.</div></div>
+            </div>
             <a href="#">View Project</a>
         </div>
+
         <div class="project">
-            <h3>Protein Yoghurts Marketing Survey and Analysis</h3>
-            <p>Short description of the project. What problem does it solve?</p>
-            <a href="#">View Project</a>
-        </div>
-        <div class="project">
-            <h3>Project 5</h3>
-            <p>Short description of the project. What problem does it solve?</p>
+            <h3>Protein Yoghurts Marketing Survey</h3>
+            <p>Conducted a marketing analysis for a new product using survey data.</p>
+            <p><strong>Key Features:</strong></p>
+            <div class="key-features">
+                <div class="feature"><div class="icon">📊</div><div class="text"><strong>Survey Data Analysis:</strong> Analyzed responses to find market trends.</div></div>
+                <div class="feature"><div class="icon">🛒</div><div class="text"><strong>Consumer Insights:</strong> Identified key customer preferences.</div></div>
+                <div class="feature"><div class="icon">📈</div><div class="text"><strong>Visualization:</strong> Created charts for data representation.</div></div>
+            </div>
             <a href="#">View Project</a>
         </div>
     </div>
 </div>
-
-</body>
-</html>
-
 
 
 
