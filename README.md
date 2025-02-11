@@ -269,7 +269,11 @@
                     <div class="icon">
                         <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="Uk" style="width: 30px; height: 20px;">
                     </div>
-                <div class="feature"><div class="icon">💬</div><div class="text"><strong>Natural Language Processing:</strong> Tokenization, vectorization, and text preprocessing.</div></div>
+                         <div class="text">
+                <strong>Project Language:</strong> English
+                    </div>
+                </div>
+                <div class="feature"><div class="icon">💬</div><div class="text"><strong>Natural Language Processing:</strong> Cleaned and preprocessed data and removed missing values</div></div>
                 <div class="feature"><div class="icon">📊</div><div class="text"><strong>Machine Learning:</strong> Trained a classifier on IMDb reviews.</div></div>
                 <div class="feature"><div class="icon">📈</div><div class="text"><strong>Model Evaluation:</strong> Used accuracy and precision metrics.</div></div>
             </div>
