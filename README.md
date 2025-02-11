@@ -251,10 +251,10 @@
             <div class="key-features">
                 <div class="feature">
                     <div class="icon">
-                        <img src="https://en.wikipedia.org/wiki/United_Kingdom#/media/File:Flag_of_the_United_Kingdom_(1-2).svg" alt="Uk" style="width: 30px; height: 20px;">
+                        <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="Uk" style="width: 30px; height: 20px;">
                     </div>
                 <div class="text">
-                <strong>Project Language:</strong> Polish
+                <strong>Project Language:</strong> English
                     </div>
                 </div>
                 <div class="feature"><div class="icon">🧠</div><div class="text"><strong>Machine Learning:</strong> Developed, tested, evaluated and compared two machine learning models: Random Forest Classifier and AdaBoost.</div></div>
