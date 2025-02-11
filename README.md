@@ -245,13 +245,22 @@
             <a href="#">View Project</a>
         </div>
         <div class="project">
-            <h3>Breast Cancer Classification with Random Forest</h3>
-            <p>Developed a machine learning model to classify breast cancer cases with 95% accuracy.</p>
+            <h3>Breast Cancer Classification with AdaBoost</h3>
+            <p>This project was about developing a machine learning model to classify breast cancer cases using a dataset of tumor characteristics. The workflow included data preprocessing, exploratory data analysis, and feature engineering to optimize model performance. The classification model predicts whether a tumor is benign or malignant based on key attributes such as radius, texture, perimeter, and                 smoothness. Various evaluation metrics, including ROC curves and confusion matrices, were used to assess accuracy and reliability. Final model classifies cases with <strong>95% accuracy</strong>.</p>
             <p><strong>Key Features:</strong></p>
             <div class="key-features">
-                <div class="feature"><div class="icon">🧠</div><div class="text"><strong>Machine Learning:</strong> Random Forest Classifier for classification.</div></div>
-                <div class="feature"><div class="icon">📊</div><div class="text"><strong>Data Analysis:</strong> Performed EDA and feature engineering.</div></div>
-                <div class="feature"><div class="icon">📈</div><div class="text"><strong>Model Evaluation:</strong> Used ROC curves and confusion matrices.</div></div>
+                <div class="feature">
+                    <div class="icon">
+                        <img src="https://en.wikipedia.org/wiki/United_Kingdom#/media/File:Flag_of_the_United_Kingdom_(1-2).svg" alt="Uk" style="width: 30px; height: 20px;">
+                    </div>
+                <div class="text">
+                <strong>Project Language:</strong> Polish
+                    </div>
+                </div>
+                <div class="feature"><div class="icon">🧠</div><div class="text"><strong>Machine Learning:</strong> Developed, tested, evaluated and compared two machine learning models: Random Forest Classifier and AdaBoost.</div></div>
+                <div class="feature"><div class="icon">📊</div><div class="text"><strong>Data Analysis:</strong> Performed exploratory data analysis.</div></div>
+                <div class="feature"><div class="icon">🎯</div><div class="text"><strong>Hyperparameter Tunning:</strong> Applied Grid search to optimize model performance</div></div>
+                <div class="feature"><div class="icon">💾</div><div class="text"><strong>Model Deployment</strong> Saved and deployed the trained model using joblib, making it reusable for future predictions</div></div>    
             </div>
             <a href="#">View Project</a>
         </div>
