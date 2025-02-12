@@ -243,7 +243,7 @@
                     </div>
                 </div>
             </div>
-            <a href="#">View Project</a>
+            <a href="https://github.com/mszczepkowski2003/Projects/blob/main/Real_estate_scraper.py">View Project</a>
         </div>
         <div class="project">
             <h3>Breast Cancer Classification with AdaBoost</h3>
