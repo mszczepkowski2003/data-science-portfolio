@@ -207,6 +207,13 @@
                     </div>
                 </div>
                 <div class="feature">
+                    <div class="icon">📚</div>
+                    <div class="text">
+                        <strong>Libraries Used:</strong>
+                        Selenium, Numpy, Pandas
+                    </div>
+                </div>
+                <div class="feature">
                     <div class="icon">🔄</div>
                     <div class="text">
                         <strong>Web Scraping with Selenium:</strong>
@@ -251,6 +258,13 @@
                 <strong>Project Language:</strong> English
                     </div>
                 </div>
+                   <div class="feature">
+                    <div class="icon">📚</div>
+                    <div class="text">
+                        <strong>Libraries Used:</strong>
+                        Pandas, Scikit-learn, Matplotlib, Seaborn
+                    </div>
+                </div>
                 <div class="feature"><div class="icon">🧠</div><div class="text"><strong>Machine Learning:</strong> Developed, tested, evaluated and compared two machine learning models: Random Forest Classifier and AdaBoost.</div></div>
                 <div class="feature"><div class="icon">📊</div><div class="text"><strong>Data Analysis:</strong> Performed exploratory data analysis.</div></div>
                 <div class="feature"><div class="icon">🎯</div><div class="text"><strong>Hyperparameter Tunning:</strong> Applied Grid search to optimize model performance</div></div>
@@ -273,6 +287,13 @@
                 <strong>Project Language:</strong> English
                     </div>
                 </div>
+                       <div class="feature">
+                    <div class="icon">📚</div>
+                    <div class="text">
+                        <strong>Libraries Used:</strong>
+                        Pandas, Scikit-learn, Wordcloud, Matplotlib, Seaborn
+                    </div>
+                </div>
                 <div class="feature"><div class="icon">💬</div><div class="text"><strong>Natural Language Processing:</strong> Cleaned and preprocessed data and removed missing values.</div></div>
                 <div class="feature"><div class="icon">📊</div><div class="text"><strong>Exploratory Data Analysis:</strong> Identified and visualized key words using word cloud.</div></div>
                 <div class="feature"><div class="icon">🧠</div><div class="text"><strong>Machine learning:</strong> Created working sentiment classification model that predictcs if the movie review is positive or negative.</div></div>
@@ -291,6 +312,13 @@
                         </div>
                 <div class="text">
                 <strong>Project Language:</strong> Polish
+                    </div>
+                </div>
+                div class="feature">
+                    <div class="icon">📚</div>
+                    <div class="text">
+                        <strong>Libraries Used:</strong>
+                        Pandas, Scikit-learn, Matplotlib, Seaborn, plotly
                     </div>
                 </div>
                 <div class="feature"><div class="icon">📝</div><div class="text"><strong>Collecting data:</strong> Created and conducted a survey.</div></div>
