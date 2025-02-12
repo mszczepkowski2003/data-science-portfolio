@@ -282,12 +282,22 @@
 
         <div class="project">
             <h3>Protein Yoghurts Marketing Survey</h3>
-            <p>Conducted a marketing analysis for a new product using survey data.</p>
+            <p>This project goal was to find out student buying preferences in the protein yoghurt market. It involved three main stages. First, a survey was designed and conducted on a random sample of University of Gdańsk students to analyze their preferences. The second step focused on data cleaning and preprocessing, ensuring accuracy by handling missing values and inconsistencies to prepare the                       dataset for analysis. Finally, in the data analysis phase, various static and interactive visualizations were created to explore trends, correlations between variables were examined to gain deeper insights, and a cluster analysis using Ward’s hierarchical clustering was performed to identify distinct groups of potential customers.</p>
             <p><strong>Key Features:</strong></p>
             <div class="key-features">
-                <div class="feature"><div class="icon">📊</div><div class="text"><strong>Survey Data Analysis:</strong> Analyzed responses to find market trends.</div></div>
-                <div class="feature"><div class="icon">🛒</div><div class="text"><strong>Consumer Insights:</strong> Identified key customer preferences.</div></div>
-                <div class="feature"><div class="icon">📈</div><div class="text"><strong>Visualization:</strong> Created charts for data representation.</div></div>
+                <div class="feature">
+                    <div class="icon">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" alt="Polska" style="width: 30px; height: 20px;">
+                        </div>
+                <div class="text">
+                <strong>Project Language:</strong> Polish
+                    </div>
+                </div>
+                <div class="feature"><div class="icon">📝</div><div class="text"><strong>Collecting data:</strong> Created and conducted a survey.</div></div>
+                <div class="feature"><div class="icon">🧹</div><div class="text"><strong>Data cleaning:</strong> Cleaned ad prepared the data.</div></div>
+                <div class="feature"><div class="icon">📊 </div><div class="text"><strong>Visualization:</strong> Created various plots via python libraries.</div></div>
+                <div class="feature"><div class="icon">📈</div><div class="text"><strong>Statistical insights</strong> Calculated key statistical metrics to better understand the dataset.</div></di
+                <div class="feature"><div class="icon">🤖</div><div class="text"><strong>Machine learning </strong> Applied unsupervised clustering analysis to segment respondents into meaningful groups.</div></di
             </div>
             <a href="#">View Project</a>
         </div>
