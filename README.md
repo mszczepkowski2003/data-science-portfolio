@@ -165,7 +165,7 @@
     <div class="skills">
         <div class="skill">
             <label>Python</label>
-            <progress value="20" max="100"></progress>
+            <progress value="30" max="100"></progress>
         </div>
         <div class="skill">
             <label>R</label>
@@ -173,7 +173,7 @@
         </div>
         <div class="skill">
             <label>Excel</label>
-            <progress value="70" max="100"></progress>
+            <progress value="60" max="100"></progress>
         </div>
         <div class="skill">
             <label>Statistica</label>
