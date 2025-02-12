@@ -296,8 +296,8 @@
                 <div class="feature"><div class="icon">📝</div><div class="text"><strong>Collecting data:</strong> Created and conducted a survey.</div></div>
                 <div class="feature"><div class="icon">🧹</div><div class="text"><strong>Data cleaning:</strong> Cleaned ad prepared the data.</div></div>
                 <div class="feature"><div class="icon">📊 </div><div class="text"><strong>Visualization:</strong> Created various plots via python libraries.</div></div>
-                <div class="feature"><div class="icon">📈</div><div class="text"><strong>Statistical insights</strong> Calculated key statistical metrics to better understand the dataset.</div></di
-                <div class="feature"><div class="icon">🤖</div><div class="text"><strong>Machine learning </strong> Applied unsupervised clustering analysis to segment respondents into meaningful groups.</div></di
+                <div class="feature"><div class="icon">📈</div><div class="text"><strong>Statistical insights</strong> Calculated key statistical metrics to better understand the dataset.</div></div>
+                <div class="feature"><div class="icon">🤖</div><div class="text"><strong>Machine learning </strong> Applied unsupervised clustering analysis to segment respondents into meaningful groups.</div></div>
             </div>
             <a href="#">View Project</a>
         </div>
