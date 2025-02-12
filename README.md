@@ -298,7 +298,7 @@
                 <div class="feature"><div class="icon">📊</div><div class="text"><strong>Exploratory Data Analysis:</strong> Identified and visualized key words using word cloud.</div></div>
                 <div class="feature"><div class="icon">🧠</div><div class="text"><strong>Machine learning:</strong> Created working sentiment classification model that predictcs if the movie review is positive or negative.</div></div>
             </div>
-            <a href="#">View Project</a>
+            <a href="https://github.com/mszczepkowski2003/Projects/blob/main/Text_classification.ipynb">View Project</a>
         </div>
 
         <div class="project">
