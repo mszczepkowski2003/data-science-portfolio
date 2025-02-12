@@ -314,7 +314,7 @@
                 <strong>Project Language:</strong> Polish
                     </div>
                 </div>
-                div class="feature">
+                <div class="feature">
                     <div class="icon">📚</div>
                     <div class="text">
                         <strong>Libraries Used:</strong>
