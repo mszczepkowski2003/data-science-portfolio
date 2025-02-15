@@ -243,7 +243,7 @@
                     </div>
                 </div>
             </div>
-            <a href="https://github.com/mszczepkowski2003/Projects/blob/main/Real_estate_scraper.py">View Project</a>
+            <a href="https://github.com/mszczepkowski2003/portfolio_projects/blob/main/Real_estate_scraper.py">View Project</a>
         </div>
         <div class="project">
             <h3>Breast Cancer Classification with AdaBoost</h3>
@@ -271,7 +271,7 @@
                 <div class="feature"><div class="icon">📈</div><div class="text"><strong>Handling correlation:</strong>  Used Random Forest, which naturally handles highly correlated variables, avoiding the need for manual feature removal.</div></div>   
                 <div class="feature"><div class="icon">💾</div><div class="text"><strong>Model Deployment</strong> Saved and deployed the trained model using joblib, making it reusable for future predictions</div></div>    
             </div>
-            <a href="#">View Project</a>
+            <a href="https://github.com/mszczepkowski2003/portfolio_projects/blob/main/Breast_cancer.ipynb">View Project</a>
         </div>
 
         <div class="project">
@@ -298,7 +298,7 @@
                 <div class="feature"><div class="icon">📊</div><div class="text"><strong>Exploratory Data Analysis:</strong> Identified and visualized key words using word cloud.</div></div>
                 <div class="feature"><div class="icon">🧠</div><div class="text"><strong>Machine learning:</strong> Created working sentiment classification model that predictcs if the movie review is positive or negative.</div></div>
             </div>
-            <a href="https://github.com/mszczepkowski2003/Projects/blob/main/Text_classification.ipynb">View Project</a>
+            <a href="https://github.com/mszczepkowski2003/portfolio_projects/blob/main/Text_classification.ipynb">View Project</a>
         </div>
 
         <div class="project">
@@ -327,7 +327,7 @@
                 <div class="feature"><div class="icon">📈</div><div class="text"><strong>Statistical insights</strong> Calculated key statistical metrics to better understand the dataset.</div></div>
                 <div class="feature"><div class="icon">🤖</div><div class="text"><strong>Machine learning </strong> Applied unsupervised clustering analysis to segment respondents into meaningful groups.</div></div>
             </div>
-            <a href="#">View Project</a>
+            <a href="https://github.com/mszczepkowski2003/portfolio_projects/blob/main/Badania_marketingowe.ipynb">View Project</a>
         </div>
     </div>
 </div>
