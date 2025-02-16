@@ -1,4 +1,4 @@
-# data-science-portfolio
+# Data Science portfolio
 
 <html lang="pl">
 <head>
