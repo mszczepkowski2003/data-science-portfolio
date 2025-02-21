@@ -185,7 +185,7 @@
         </div>
         <div class="skill">
             <label>SQL</label>
-            <progress value="10" max="100"></progress>
+            <progress value="15" max="100"></progress>
         </div>
     </div>
 </div>
